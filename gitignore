@@ -1,0 +1,7 @@
+build/
+devel/
+devel_issolated/
+el/
+el_isolated/
+install/
+
